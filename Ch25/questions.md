@@ -2,6 +2,7 @@
 ## Jenny Zhan Option3
 
 **1.**
+
 a.
 
 Iteration:A sequence of steps is performed a number of times
@@ -13,6 +14,7 @@ Advantage: When designing a solution to a mathematical problem that is inherentl
 Disadvantage: Repeated recursive calls can carry large overheads in terms of memory usage and processor time.
 
 **2.**
+
 a.
 
 A function or procedure defined in terms of itself.
@@ -59,6 +61,7 @@ When designing a solution to a mathematical problem that is inherently recursive
 
 
 **3.**
+
 a.
 
 i.
