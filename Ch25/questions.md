@@ -42,12 +42,20 @@ For Power(2,4), the actual parameter Exponent=4, Base=2. The function call cause
 e.
 
 FUNCTION Power(Base: INTEGER, Exponent: INTEGER) RETURNS INTEGER
+
 	Result ← 1
+
+
 	WHILE Exponent > 0
+
 		Result ← Result * Base
+
 		Exponent ← Exponent - 1
+
 	ENDWHILE
+
 	RETURN Result
+
 ENDFUNCTION
 
 f.
