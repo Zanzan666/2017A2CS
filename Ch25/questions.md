@@ -41,26 +41,20 @@ For Power(2,4), the actual parameter Exponent=4, Base=2. The function call cause
 
 e.
 
+<pre>
 FUNCTION Power(Base: INTEGER, Exponent: INTEGER) RETURNS INTEGER
-
 	Result ← 1
-
-
 	WHILE Exponent > 0
-
 		Result ← Result * Base
-
 		Exponent ← Exponent - 1
-
 	ENDWHILE
-
 	RETURN Result
-
 ENDFUNCTION
+</pre>
 
 f.
 
-i.
+i
 
 Repeated recursive calls can carry large overheads in terms of memory usage and processor time.
 
