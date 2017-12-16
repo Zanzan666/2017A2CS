@@ -5,12 +5,14 @@
 
 a.
 
-Iteration:A sequence of steps is performed a number of times
+Iteration:A sequence of steps is performed a number of times.
+
 Recursion: a function or procedure defined in terms of itself.
 
 b.
 
 Advantage: When designing a solution to a mathematical problem that is inherently recursive, the easiest way to write a solution is to implement the recursive definition.
+
 Disadvantage: Repeated recursive calls can carry large overheads in terms of memory usage and processor time.
 
 **2.**
