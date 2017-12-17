@@ -9,7 +9,4 @@ def bubblesort(bubbleList):
                 NoMoreSwaps=False
                 bubbleList[i],bubbleList[i+1]=bubbleList[i+1],bubbleList[i]
         n-=1
-        print(bubbleList,NoMoreSwaps)
     return bubbleList
-
-print(bubblesort([1,6,3,20,99,33,12,4,0]))
