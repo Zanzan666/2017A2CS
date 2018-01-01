@@ -55,7 +55,7 @@ class draw():
         if x[3]=='sin':
             self.r=x[0]+x[1]*np.sin(x[2]*self.theta)
         if x[3]=='direct':
-            self.r=x[0]+x[1]*x[2]*self.theta
+            self.r=x[0]+x[1]+x[2]*self.theta
     def draw(self):
         self.ax.plot(self.theta, self.r)
         self.ax.grid(True)
