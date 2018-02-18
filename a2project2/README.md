@@ -1,5 +1,6 @@
 # Group Work:Sketching Polar Graphs
 *By:  Jenny Zhan & Laurel Kuang*
+
 **Topic: Sketching Polar Graphs**
 
 ## How to use?
