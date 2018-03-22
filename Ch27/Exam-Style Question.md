@@ -6,13 +6,15 @@ Jenny Zhan
 
 ###a
 
-​			BankAccount
+```
+			BankAccount
 
-​				  ↑
+				  ↑
 
    		|		   			|
 
 PersonalAccount			SavingAccount
+```
 
 
 

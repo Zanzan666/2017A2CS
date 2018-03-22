@@ -35,35 +35,42 @@ ENDWHILE
 
 **Task 1.4**
 
-​		<u>Salary Classification</u>
+```
+		
 
-​				|
+		Salary Classification
 
-​			<u>Identify Role *</u>
+				|
 
-​				|
+			Identify Role *
 
-​	|						|
+				|
 
-<u>Read Salary</u>				<u>Salary>50</u>
+	|						|
 
-​							|
+Read Salary				Salary>50
 
-​				|False				|True
+							|
 
-​		<u>Assign Manager °</u>			<u>Salary>70</u>
+				|False				|True
 
-​									|
+		Assign Manager °			Salary>70
 
-​							|False		|True
+									|
 
-​			<u>Assign Lead Developer</u>		<u>Salary>=90</u>
+							|False		|True
 
-​											|
+			Assign Lead Developer		Salary>=90
 
-​								|False				|True
+											|
 
-​					<u>Assign Consultant</u>		<u>Assign Project Manager</u>
+								|False				|True
+
+					Assign Consultant		Assign Project Manager
+
+
+
+```
 
 
 
@@ -193,15 +200,17 @@ lower:
 
 **Task 2.2**
 
-​				Toy
+```
+				Toy
 
-​				  ↑
+				  ↑
 
    		|		   		     |
 
 ComputerGame			Vehicle
+```
 
-
+​	
 
 **Task 2.3**
 
